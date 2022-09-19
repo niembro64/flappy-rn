@@ -18,7 +18,7 @@ export default function App() {
   let obstacleWidth = 60
   let obstacleHeight = 300
   let gap = 200
-  let setIntervalPeriod = 1;
+  let setIntervalPeriod = 10;
   let gameTimerId
   let obstaclesTimerId
   let obstaclesTimerIdTwo
